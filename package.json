@@ -1,0 +1,23 @@
+{
+  "name": "uc-testes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JotaPedroSenac/uc-testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JotaPedroSenac/uc-testes/issues"
+  },
+  "homepage": "https://github.com/JotaPedroSenac/uc-testes#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
